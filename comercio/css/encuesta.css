@@ -1,0 +1,16 @@
+h2{
+    font-size: 3rem;
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(33, 72, 107);
+    text-align: center;
+    margin-bottom: 3rem;
+    letter-spacing: 1.3rem;
+}
+.info{
+    font-size: 1.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    word-spacing:0.9rem;
+    text-shadow: 2px 2px 4px rgba(4,2254,253,0.5)
+
+}
